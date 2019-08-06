@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "traindieselfix",
+    "name": "Train Diesel Fix",
+    "description": "Traincraft fuel compatibility for Immersive Engineering.",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/traindieselfix",
+    "logoFile": "logo.png",
+    "authors": [
+      "MJaroslav"
+    ]
+  }
+]
