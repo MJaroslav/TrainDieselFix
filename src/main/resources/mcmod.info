@@ -2,10 +2,12 @@
   {
     "modid": "traindieselfix",
     "name": "Train Diesel Fix",
-    "description": "Traincraft fuel compatibility for Immersive Engineering.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "description": "Traincraft fuel compatibility for Immersive Engineering (and now with Arcane Engineering).",
     "url": "https://www.curseforge.com/minecraft/mc-mods/traindieselfix",
     "logoFile": "logo.png",
-    "authors": [
+    "authorList": [
       "MJaroslav"
     ]
   }

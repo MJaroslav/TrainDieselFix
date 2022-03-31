@@ -6,9 +6,11 @@ bin
 .classpath
 .project
 
+# vs code
+.vscode
+
 # idea
 out
-classes
 *.ipr
 *.iws
 *.iml
@@ -18,6 +20,8 @@ classes
 build
 .gradle
 
-# other
-eclipse
-run
+# Other
+logs/
+log/
+gradle.properties
+run/
