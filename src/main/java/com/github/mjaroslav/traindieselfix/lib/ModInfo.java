@@ -14,7 +14,7 @@ public class ModInfo {
     public static final String CONFIG_ADD_BOTTLER_RECIPES = "Add IE bottler recipes for TC canisters";
     public static final String CONFIG_DIESEL_VALUE = "Energy from one bucket of TC diesel";
     public static final String CONFIG_REFINED_FUEL_VALUE = "Energy from one bucket of TC refined fuel";
-    public static final String CONFIG_ADD_FUEL_TYPE_TO_TOOLTIPS = "Add suffix \" (FUEL_NAME)\" after capacity of drill (IE) and impulse boots (from AE)";
+    public static final String CONFIG_ADD_FUEL_TYPE_TO_TOOLTIPS = "Add suffix with fuel name after capacity of drill (IE) and impulse boots (from AE)";
 
     public static boolean configEnable;
     public static boolean configUseDieselInGenerator;

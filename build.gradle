@@ -83,8 +83,6 @@ dependencies {
 }
 
 processResources {
-    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
-    includeEmptyDirs = false
     inputs.property 'version', project.version
     inputs.property 'mcversion', project.minecraft.version
     from(sourceSets.main.resources.srcDirs) {
